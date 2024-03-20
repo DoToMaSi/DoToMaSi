@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello
 
+I'm Douglas Tomacheski, an Angular Front-end Engineer with 6 years of experience.
+
+[![Linkedin: Douglas](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dotomasi/?locale=en_US)](https://www.linkedin.com/in/dotomasi/?locale=en_US)
 <!--
 **DoToMaSi/DoToMaSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
